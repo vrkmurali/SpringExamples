@@ -1,2 +1,2 @@
 # SpringExamples
-developing applications spring 
+First example on Spring
